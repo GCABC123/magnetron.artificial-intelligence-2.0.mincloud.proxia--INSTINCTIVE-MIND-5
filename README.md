@@ -1,8 +1,7 @@
 # magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-5
 
 
-MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a HEARING PROXIA  when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
-developing a PROXIA to count traffic.
+MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a HEARING PROXIA  when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be developing a HEARING PROXIA.
 
  
 🤖 THE ABC 123 GROUP ™ 🤖
@@ -30,7 +29,7 @@ PHYSICAL WORLD SENSE: SIGHT
 
 PHYSICAL WORLD SENSE: SMELL
 
-PHYSICAL WORLD SENSE: HEARING ✅
+PHYSICAL WORLD SENSE: HEARING ✅ (EARS)
 
 PHYSICAL WORLD SENSE: TASTE
 
