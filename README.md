@@ -60,8 +60,6 @@ REQUIREMENTS:
 
 =============================================================
 
-This is a Google Colab/Jupyter Notebook for developing (one possible scheme for) an OBJECT DETECTION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ 
-
 This Google Colab NOTEBOOK will guide you on one possible scheme to create a HEARING PROXIA in the ARTIFICIAL INTELLIGENCE 2.0™ FRAMEWORK/DOCUMENTATION. This notebook will guide you on using SPEECH RECOGNITION on YOUTUBE VIDEOS for making PROXIA to be used on MINDCLOUDS. SPEECH RECOGNITION or SPEECH-TO-TEXT, is the ability of a machine or program to identify words spoken aloud and convert them into readable text with the main benefit of searchability. The SPEECH RECOGNITION outlined in this NOTEBOOK will be referred to as HEARING PROXIA B.
 
 Prerequisite reading:
