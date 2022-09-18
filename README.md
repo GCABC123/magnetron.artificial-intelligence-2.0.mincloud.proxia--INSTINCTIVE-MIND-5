@@ -62,8 +62,7 @@ REQUIREMENTS:
 
 This is a Google Colab/Jupyter Notebook for developing (one possible scheme for) an OBJECT DETECTION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ 
 
-
-This notebook will guide you on using OBJECT DETECTION on VIDEO for making TRAFFIC COUNTING PROXIA to be used on MINDCLOUDS. The traffic counting methods outlined in this NOTEBOOK will be referred to as TRAFFIC COUNTING PROXIA B. This is useful in ARTIFICIAL INTELLIGENCE 2.0 ™ as far as helping robots count traffic in cities utilizing MAGNETRON ™ TECHNOLOGY for INFRASTRUCTURE. This will be on the INSTINCTIVE MIND MINDCLOUD and INFORMATION from this PROXIA must go to other PROXIA for processing e.g LOGIC/ASTRAL MIND MINDCLOUD PROXIA.
+This Google Colab NOTEBOOK will guide you on one possible scheme to create a HEARING PROXIA in the ARTIFICIAL INTELLIGENCE 2.0™ FRAMEWORK/DOCUMENTATION. This notebook will guide you on using SPEECH RECOGNITION on YOUTUBE VIDEOS for making PROXIA to be used on MINDCLOUDS. SPEECH RECOGNITION or SPEECH-TO-TEXT, is the ability of a machine or program to identify words spoken aloud and convert them into readable text with the main benefit of searchability. The SPEECH RECOGNITION outlined in this NOTEBOOK will be referred to as HEARING PROXIA B.
 
 Prerequisite reading:
 
