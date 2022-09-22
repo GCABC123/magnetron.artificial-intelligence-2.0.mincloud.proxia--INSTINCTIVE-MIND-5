@@ -35,17 +35,7 @@ PHYSICAL WORLD SENSE: TASTE
 
 PHYSICAL WORLD SENSE: TOUCH
 
-+++++++++++++++++++++++++++++++++++++++++++++
 
-ASTRAL SENSE: SIGHT
-
-ASTRAL WORLD SENSE: SMELL
-
-ASTRAL WORLD SENSE: HEARING ✅
-
-ASTRAL WORLD SENSE: TASTE
-
-ASTRAL WORLD SENSE: TOUCH
 
 =============================================================
 
